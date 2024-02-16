@@ -1,4 +1,6 @@
-# NeoVim Configurations
+# NeoVim Lazy Configurations
+
+My NeoVim configurations using [Lazy](https://github.com/folke/lazy.nvim) plugin manager.
 
 ## Installation
 
