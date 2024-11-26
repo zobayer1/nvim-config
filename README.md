@@ -6,7 +6,7 @@ My NeoVim configurations using [Lazy](https://github.com/folke/lazy.nvim) plugin
 
 1. `fd-find`: [Installation](https://github.com/sharkdp/fd?tab=readme-ov-file#installation)
 2. `eslint-d`: Install: `sudo npm i -g eslint-d`
-3. `delve`: Install `sudo dnf install -y delve`
+3. `delve`: Install: `sudo dnf install -y delve`
 
 ## Installation
 
@@ -36,12 +36,12 @@ For breaking changes, please refer to respective plugin repositories for updated
 Mouse support is enabled. You can click on the panes to move between them.
 
 ### Highlighting
-- v :: start visual mode
-- V :: start visual line mode
-- <C-v> :: start visual block mode
+- `v`: start visual mode
+- `V`: start visual line mode
+- `<C-v>`: start visual block mode
 
 In visual mode: `e` to jump to the end of word, `b` to jump to the beginning of word.
-Cursor movement keys 'h', 'j', 'k', 'l' can be used to move the cursor.
+Cursor movement keys `h`, `j`, `k`, `l` can be used to move the cursor.
 
 ### New File
 - `Ctrl + n`: Open the file browser pane from neo-tree.
@@ -62,7 +62,7 @@ Cursor movement keys 'h', 'j', 'k', 'l' can be used to move the cursor.
   - `Ctrl + f`: Scroll docs down.
   - `Ctrl + Space`: Accept completion.
   - `Crrl + e`: Close hover window.
-  - <CR>: Confirm option.
+  - `<CR>`: Confirm option.
 
 ### Formatting 
 - `Leader + gf`: Format the current file.
