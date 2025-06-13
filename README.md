@@ -7,6 +7,9 @@ My NeoVim configurations using [Lazy](https://github.com/folke/lazy.nvim) plugin
 1. `fd-find`: [Installation](https://github.com/sharkdp/fd?tab=readme-ov-file#installation)
 2. `eslint-d`: Install: `sudo npm i -g eslint-d`
 3. `delve`: Install: `sudo dnf install -y delve`
+4. `nodejs`: Install: `sudo dnf install -y nodejs`
+
+Copilot requires `nodejs` 20.0.0 or later.
 
 ## Installation
 
